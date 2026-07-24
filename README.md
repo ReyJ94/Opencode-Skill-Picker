@@ -4,12 +4,16 @@
 
 # opencode-skill-picker
 
-An OpenCode plugin for choosing which skills are available to a session. It
-preserves OpenCode's native skills experience while adding `/manage-skills`, a
-keyboard-friendly dialog where disabled skills stay visible and can be restored
-at any time.
+Choose exactly which OpenCode skills a session can use—without losing the
+ability to see or restore anything you turned off. The plugin preserves
+OpenCode's native skills experience and adds `/manage-skills`, a keyboard-first
+picker with durable, enforced selection state.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ReyJ94%2FOpencode--Skill--Picker-181717?logo=github)](https://github.com/ReyJ94/Opencode-Skill-Picker)
+[![Release v0.1.0](https://img.shields.io/badge/release-v0.1.0-E6A34D?style=flat-square)](https://github.com/ReyJ94/Opencode-Skill-Picker/releases/tag/v0.1.0)
+
+> **The short version:** select the skills you want in context; disabled skills
+> remain visible, recoverable, and blocked from model use.
 
 ## Highlights
 
